@@ -1,0 +1,85 @@
+.hackathon-main-div {
+    display: flex;
+  }
+  
+  .hackathon-header {
+    font-size: 60px;
+    line-height: 1.1;
+    font-family: "Google Sans Regular";
+    text-align: center;
+  }
+  
+  .hackathon-text {
+    font-size: 20px;
+  }
+  
+  .hackathon-text-div {
+    margin-left: 50px;
+    font-family: "Google Sans Regular";
+  }
+  
+  
+  .hackathon-main-div > * {
+    flex: 1;
+    margin-bottom: 30px;
+  }
+  
+  .hackathon-image-div > * {
+    max-width: 100%;
+    height: auto;
+    margin-top: 100px;
+  }
+  
+  .hackathon-heading {
+    font-size: 56px;
+    font-weight: 400;
+    font-family: "Google Sans Regular";
+  }
+  
+  /* Media Query */
+  @media (max-width: 1380px) {
+    .hackathon-heading {
+      font-size: 40px;
+    }
+    .hackathon-header {
+      font-size: 50px;
+    }
+    /* .hackathon-image-div > img {
+      margin-top: 0px;
+    } */
+  }
+  @media (max-width: 768px) {
+    .hackathon-heading {
+      font-size: 30px;
+      text-align: center;
+    }
+    .hackathon-header {
+      font-size: 30px;
+    }
+    .greeting-text-p {
+      font-size: 16px;
+      line-height: normal;
+    }
+    .hackathon-main-div {
+      flex-direction: column;
+    }
+    .hackathon-text-div {
+      margin-left: 0px;
+      margin: 20px;
+    }
+    .hackathon-text {
+      font-size: 16px;
+    }
+    .hackathon-text-subtitle {
+      font-size: 16px;
+      text-align: center;
+    }
+    .hackathon-image-div {
+      /* display: none; */
+      order: 2;
+    }
+    .hackathon-image-div > * {
+      margin-top: 0px;
+    }
+  }
+  

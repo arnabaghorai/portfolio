@@ -1,0 +1,144 @@
+{
+    "data": [
+        {
+            "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
+            "name": "Bert QnA Bot",
+            "createdAt": "2020-03-06T16:26:54Z",
+            "url": "https://github.com/arnabaghorai/Bert-QnA-SQUAD-V2-Flask",
+            "description": "Bert Model Fine-Tuned on SQUAD-2.0 Dataset to perform Q&A NLP task ",
+            "isFork": false,
+            "languages": [
+                
+                
+                {
+                    "name": "Pytorch",
+                    "iconifyClass": "logos-pytorch"
+                },
+                {
+                    "name": "Flask",
+                    "iconifyClass": "logos-flask"
+                },
+                {
+                    "name": "Jupyter",
+                    "iconifyClass": "logos-jupyter"
+                }
+
+            ]
+        },
+        {
+            "id": "MDEwOlJlcG9zaXRvcnkyNjkwNzUwMjM=",
+            "name": "Self Steering Vehicles",
+            "createdAt": "2020-06-03T11:53:55Z",
+            "url": "https://github.com/arnabaghorai/Neuro-Evolution-Self-Steering-Vehicles",
+            "description": "Self Steering Vehicles Implemented using Neuro-Evolution Algorithm",
+            "isFork": false,
+            "languages": [
+                {
+                    "name": "Tensorflow",
+                    "iconifyClass": "logos-tensorflow"
+                },
+                {
+                    "name": "JavaScript",
+                    "iconifyClass": "logos-javascript"
+                },
+                {
+                    "name": "HTML",
+                    "iconifyClass": "logos-html-5"
+                }
+                
+            ]
+        },
+        {
+            "id": "MDEwOlJlcG9zaXRvcnkyNzM1MTI1NTE=",
+            "name": "Identity Management System",
+            "createdAt": "2020-06-19T14:24:55Z",
+            "url": "https://github.com/arnabaghorai/Identity-Management-System-Dapp",
+            "description": "Developed a tamper-proof, trustless identity management system using ethereum blockchain",
+            "isFork": false,
+            "languages": [
+                {
+                    "name": "Solidity",
+                    "iconifyClass": "logos-ethereum"
+                },
+                {
+                    "name": "Flask",
+                    "iconifyClass": "logos-flask"
+                },
+
+                {
+                    "name": "Python",
+                    "iconifyClass": "logos-python"
+                }
+            ]
+        },
+        {
+            "id": "MDEwOlJlcG9zaXRvcnkxNTU5NTE3NTk=",
+            "name": "YOLO Object Detection",
+            "createdAt": "2018-11-03T05:00:56Z",
+            "url": "https://github.com/arnabaghorai/Yolo-Tfjs-React",
+            "description": "Created a React Web-app that performs Object detection using YOLO model",
+            "isFork": false,
+            "languages": [
+                {
+                    "name": "Tensorflow",
+                    "iconifyClass": "logos-tensorflow"
+                },
+                {
+                    "name": "JavaScript",
+                    "iconifyClass": "logos-react"
+                },
+                {
+                    "name": "JavaScript",
+                    "iconifyClass": "logos-javascript"
+                },
+                {
+                    "name": "HTML",
+                    "iconifyClass": "logos-html-5"
+                }
+                
+            ]
+        },
+        {
+            "id": "MDEwOlJlcG9zaXRvcnkyMDIxNDc4ODA=",
+            "name": "Musical Audio Classification",
+            "createdAt": "2019-08-13T13:13:00Z",
+            "url": "https://github.com/arnabaghorai/MusicalAudioClassification",
+            "description": "Musical Instrument Classifier ,with 92% test accuracy ,implemented by converting audio signals to spectrograms,further preprocessing done(Fast Fourier Transform + FilterBank Coefficients + Mel Frequency Cepstral Coefficients) and classification task done by implementing CNN & RNN. ",
+            "isFork": false,
+            "languages": [
+                {
+                    "name": "Tensorflow",
+                    "iconifyClass": "logos-tensorflow"
+                },
+                {
+                    "name": "Jupyter",
+                    "iconifyClass": "logos-jupyter"
+                },
+                {
+                    "name": "Python",
+                    "iconifyClass": "logos-python"
+                }
+            ]
+        },
+        {
+            "id": "MDEwOlJlcG9zaXRvcnkxODIxMjk3NTQ=",
+            "name": "Face Swap",
+            "createdAt": "2019-04-18T17:25:51Z",
+            "url": "https://github.com/arnabaghorai/FaceSwap",
+            "description": "Face Swap using Open-Cv",
+            "isFork": false,
+            "languages": [
+                
+                {
+                    "name": "Python",
+                    "iconifyClass": "logos-python"
+                },
+                {
+                    "name":"Jupyter",
+                    "iconifyClass":"logos-jupyter"
+                }
+
+            ]
+        }
+    ]
+}
